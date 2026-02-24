@@ -5,13 +5,13 @@
 <!-- Provide a brief overview of the business, its goals, and key highlights -->
 
 **Business Name:**
-
+Hen 10 s.r.o.
 **Location:**
-
+Trnava (najst adresu)
 **Mission Statement:**
 
 **Vision:**
-
+zalozenie music venue s ozvucenim, barom a sposobom prenajmu priestorov pre kapely a program
 **Summary:**
 
 ---
@@ -21,11 +21,14 @@
 <!-- Describe the music venue in detail -->
 
 **Type of Venue (e.g. concert hall, club, outdoor amphitheatre):**
-
+klub - bar
 **Capacity:**
-
+2 main rooms
+- venue - 200 people standing
+- bar room - 10 tables each for 6 people, bar with 10 seats
 **Target Audience:**
-
+young people primarily or any age group that listens to rock music,
+bands that rent the venue for their performances
 **Unique Selling Proposition:**
 
 **Description:**
@@ -53,9 +56,11 @@
 <!-- List the services and events the venue will offer -->
 
 **Event Types (e.g. live concerts, private events, open-mic nights):**
-
+concerts any time that band rents
+private concerts - higher rent price lower availability
+open mic nights at leas once - twice a month
 **Genres of Music:**
-
+rock, country, blues and related genres
 **Booking & Talent Strategy:**
 
 **Additional Services (e.g. food & beverage, merchandise):**
