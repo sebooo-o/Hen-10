@@ -5,9 +5,9 @@
 <!-- Provide a brief overview of the business, its goals, and key highlights -->
 
 **Business Name:**
-Hen 10 s.r.o.
+Bourbon room s.r.o.
 **Location:**
-Trnava (najst adresu)
+Trnava Hlavná 29
 **Mission Statement:**
 
 **Vision:**
@@ -23,9 +23,7 @@ zalozenie music venue s ozvucenim, barom a sposobom prenajmu priestorov pre kape
 **Type of Venue (e.g. concert hall, club, outdoor amphitheatre):**
 klub - bar
 **Capacity:**
-2 main rooms
-- venue - 200 people standing
-- bar room - 10 tables each for 6 people, bar with 10 seats
+sitting 20 standing 70
 **Target Audience:**
 young people primarily or any age group that listens to rock music,
 bands that rent the venue for their performances
@@ -56,15 +54,13 @@ bands that rent the venue for their performances
 <!-- List the services and events the venue will offer -->
 
 **Event Types (e.g. live concerts, private events, open-mic nights):**
-concerts any time that band rents
-private concerts - higher rent price lower availability
-open mic nights at leas once - twice a month
+live concerts of local bands, open-mic nights
 **Genres of Music:**
 rock, country, blues and related genres
 **Booking & Talent Strategy:**
-
+website booking
 **Additional Services (e.g. food & beverage, merchandise):**
-
+alcohol, drinks, snacks, merch
 ---
 
 ## 5. Marketing & Promotion Strategy
@@ -72,11 +68,11 @@ rock, country, blues and related genres
 <!-- Outline how you plan to attract customers -->
 
 **Marketing Channels:**
-
+instagram, website, seo, posters of concerts
 **Social Media Strategy:**
-
+daily content
 **Partnerships & Sponsorships:**
-
+with alcohol brands
 **Promotional Activities:**
 
 ---
@@ -86,15 +82,15 @@ rock, country, blues and related genres
 <!-- Describe day-to-day operations -->
 
 **Operating Hours:**
-
+16-23 sun-thur 18-2:00 fri-sat
 **Staffing Plan:**
-
+1 barman 1 server 1 audio engineer
 **Equipment & Technology:**
-
+PA system, 2 guitar amps, 1 bass amp, 1 drum set, 1 keyboard, 3 mics, 2 instrument mics,
 **Venue Layout:**
-
+bartables at sides, bar on one side stage opposite to it, backstage behind stage
 **Health & Safety Plan:**
-
+no
 ---
 
 ## 7. Financial Plan
